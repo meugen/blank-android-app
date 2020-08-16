@@ -1,8 +1,8 @@
-package com.nogodi.mobile.blankandroidapp;
-
-import androidx.appcompat.app.AppCompatActivity;
+package meugeninua.android.blank;
 
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.nogodi.mobile.blankandroidapp;
+package meugeninua.android.blank;
 
 import org.junit.Test;
 
